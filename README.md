@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working with QA Specialist In Virtus, UFCG
 - 🌱 I’m currently learning a postgraduate degree in automatic testing
-- 📫 How to reach me: [...](https://www.linkedin.com/in/singrid-camelo-palmeira-ctfl-b2b0b0a2/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/singrid-camelo-palmeira-ctfl-b2b0b0a2/)
